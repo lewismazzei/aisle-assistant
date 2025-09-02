@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local environment / editor
+.envrc
+.vscode/
+.idea/
+
+# Keystores / certs (never commit signing material)
+*.jks
+*.keystore
+*.pem
+*.p12
